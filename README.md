@@ -1,7 +1,7 @@
-<h1 align="center"> Mentoria </h1>
+<h1 align="center"> Feedback de Mentoria </h1>
 
 <p align="center">
-Nesse projeto de feedback de mentoria foram usados vários tipos de   <br/>
+Nesse projeto de feedback de mentoria foram usados vários tipos de inputs como de chat, email, seleção.  <br/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Nesse projeto de feedback de mentoria foram usados vários tipos de   <br/>
 <br>
 
 <p align="center">
-  <img alt="Formulário de feedback" src="" width="80%">
+  <img alt="Formulário de feedback" src="https://i.imgur.com/ay7GbdP.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Formulário para feedback de mentoria e possivel agendamento.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](nahblue.github.io/form-feedback/)
 
 ## :memo: Licença
 
