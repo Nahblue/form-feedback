@@ -17,7 +17,7 @@ Nesse projeto de feedback de mentoria foram usados vários tipos de inputs como 
 <br>
 
 <p align="center">
-  <img alt="Formulário de feedback" src="https://i.imgur.com/ay7GbdP.png" width="80%">
+  <img alt="Formulário de feedback" src="https://i.imgur.com/ay7GbdP.png" width="60%">
 </p>
 
 ## 🚀 Tecnologias
